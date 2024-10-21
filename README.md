@@ -1,12 +1,15 @@
-# Hey There 👋 Welcome to my Mini Bio!
+# Hey There 👋 Welcome To My Mini Bio!
 # ![image](https://github.com/user-attachments/assets/9273c07a-0fa9-4183-b6e4-f9535bc8307b)
 
-### Skills in Progress
+### Skills In Progress ☕
 # [![My Skills](https://skillicons.dev/icons?i=java,python,clojure,haskell,js,html,css,react,mysql&theme=dark)](https://skillicons.dev)
 
-### To Keep in Touch
+### To Keep In Touch 💬
 ```bash
 victor.jacob.oliveria.rodrigues.silva@ccc.ufcg.edu.br
+```
+```bash
+victorjacob10@hotmail.com
 ```
 ---
 
