@@ -2,6 +2,7 @@
 # ![image](https://github.com/user-attachments/assets/9273c07a-0fa9-4183-b6e4-f9535bc8307b)
 
 ### Skills In Progress ☕
+Currently, my favorite programming languages are Java, Python, and Clojure, which i've worked with on some projects. Additionally, I'm expanding my skills in JavaScript, HTML5, CSS3, React, and MySQL, exploring new technologies to strengthen my developer toolkit.
 # [![My Skills](https://skillicons.dev/icons?i=java,python,clojure,haskell,js,html,css,react,mysql&theme=dark)](https://skillicons.dev)
 
 ### To Keep In Touch 💬
